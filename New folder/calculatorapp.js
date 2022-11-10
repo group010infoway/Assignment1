@@ -18,4 +18,5 @@ prompt.get(["num1","num2"],(err,res)=>{
     console.log(`sec: ${caltrigo.sec(res.Angle)}`)
     console.log(`tan: ${caltrigo.tan(res.Angle)}`)
     console.log(`cot: ${caltrigo.cot(res.Angle)}`)
+     console.log(`cot: ${caltrigo.cot(res.Angle)}`)
 })
